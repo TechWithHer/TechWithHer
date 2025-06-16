@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ayushi Singh</h1>
 <h3 align="center">
-  💼 Founder @TechWithHer | 🔮 AI & Automation Consultant | 🚀 Building with LLMs, Copilots, GPTs
+  💼 Founder @Strenure | 🔮 AI & Automation Consultant | 🚀 Building with LLMs, Copilots, GPTs | Educator
 </h3>
 
 <p align="center">
@@ -21,13 +21,13 @@
 ### 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/ayushi-techwithher" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin" /></a>
-  <a href="https://www.instagram.com/techwithher" target="_blank"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white" /></a>
-  <a href="https://www.facebook.com/techwithher" target="_blank"><img src="https://img.shields.io/badge/-Facebook-1877F2?style=flat&logo=facebook&logoColor=white" /></a>
-  <a href="https://www.tiktok.com/@techwithher" target="_blank"><img src="https://img.shields.io/badge/-TikTok-black?style=flat&logo=tiktok&logoColor=white" /></a>
-  <a href="https://www.youtube.com/@techwithher" target="_blank"><img src="https://img.shields.io/badge/-YouTube-red?style=flat&logo=youtube&logoColor=white" /></a>
-  <a href="https://www.twitter.com/techwithher" target="_blank"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white" /></a>
-  <a href="https://www.ayushisingh.com" target="_blank"><img src="https://img.shields.io/badge/-Website-000000?style=flat&logo=google-chrome&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/the-ayushi-singh/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin" /></a>
+  <a href="https://www.instagram.com/ayushisingh_official/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white" /></a>
+  <a href="https://www.facebook.com/authorayushisingh/" target="_blank"><img src="https://img.shields.io/badge/-Facebook-1877F2?style=flat&logo=facebook&logoColor=white" /></a>
+  <a href="https://www.tiktok.com/@strenure" target="_blank"><img src="https://img.shields.io/badge/-TikTok-black?style=flat&logo=tiktok&logoColor=white" /></a>
+  <a href="https://www.youtube.com/@Strenure" target="_blank"><img src="https://img.shields.io/badge/-YouTube-red?style=flat&logo=youtube&logoColor=white" /></a>
+  <a href="https://x.com/theayushisingh" target="_blank"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white" /></a>
+  <a href="https://ayushisingh.com/" target="_blank"><img src="https://img.shields.io/badge/-Website-000000?style=flat&logo=google-chrome&logoColor=white" /></a>
 </p>
 
 ---
@@ -35,8 +35,8 @@
 ### 📺 Featured AI Automation Videos
 
 <!-- Replace with your actual video links or thumbnails -->
-[![AI Copilot Demo](https://img.youtube.com/vi/VIDEO_ID1/0.jpg)](https://www.youtube.com/watch?v=VIDEO_ID1)
-[![LLM Course Intro](https://img.youtube.com/vi/VIDEO_ID2/0.jpg)](https://www.youtube.com/watch?v=VIDEO_ID2)
+[![AI Copilot Demo](https://img.youtube.com/vi/VIDEO_ID1/0.jpg)](https://youtu.be/MJ69tFHrsdY?si=YKr9W29NPtBj0Uah)
+[![LLM Course Intro](https://img.youtube.com/vi/VIDEO_ID2/0.jpg)](https://youtu.be/-tRPvoNDiLw?si=vDaC_yVXKolkOoWq)
 
 ---
 
@@ -56,9 +56,8 @@ Here are some of my hands-on AI automation courses hosted on Notion:
 
 | 💡 Course Name | 🔗 Link |
 |---------------|--------|
-| **AI Automation for Finance** | [Open in Notion](https://www.notion.so/your-course-link) |
-| **Build Your First GPT Copilot** | [Open in Notion](https://www.notion.so/your-course-link) |
-| **GitHub for Beginners** | [Open in Notion](https://www.notion.so/your-course-link) |
+| **GITHUB IN 15 DAYS CHALLENGE** | [Open in Notion]((https://ambitious-yam-b71.notion.site/201df188b81e80a68b58fe2244e3ebc9?v=201df188b81e8070b580000c2329604b&source=copy_link)) |
+| **SHELL COMMANDS - ULTIMATE GUIDE** | [Open in Notion](https://ambitious-yam-b71.notion.site/Module-1-Shell-Commands-The-Ultimate-Guide-197df188b81e80148453f1b1ed676a4a?source=copy_link) |
 
 ---
 
@@ -81,7 +80,7 @@ I'm open to:
 - 🤖 Building internal GPT copilots
 - 🧠 AI strategy for enterprises and startups
 
-📬 Drop me a message or connect on [LinkedIn](https://www.linkedin.com/in/ayushi-techwithher)
+📬 Drop me a message or connect on [LinkedIn](https://www.linkedin.com/in/the-ayushi-singh/)
 
 ---
 
