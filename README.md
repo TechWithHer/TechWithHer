@@ -2,10 +2,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&multiline=true&width=900&lines=Hi+%F0%9F%91%8B%2C+I'm+Ayushi+Singh;Founder+%40Strenure+|+AI+%26+Automation+Consultant;Building+LLMs+%7C+Copilots+%7C+Educator" alt="Typing Header" />
 </h1>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZm5reGphY3F5bG0zM2ZubnRuc2wxZ2Q1c2lvMXl5eTZkaXR6ZzdrcyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Dh5q0YHqBTh6s/giphy.gif" width="400" />
-</p>
-
 ---
 
 ### ⚡ About Me
