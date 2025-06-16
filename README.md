@@ -15,15 +15,32 @@
 
 ### 🌐 Connect With Me
 
+### 🌐 Connect With Me
+
 <p align="center">
-  <a href="https://www.linkedin.com/in/the-ayushi-singh/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-  <a href="https://www.instagram.com/ayushisingh_official/" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" /></a>
-  <a href="https://www.facebook.com/authorayushisingh/" target="_blank"><img src="https://skillicons.dev/icons?i=facebook" /></a>
-  <a href="https://www.tiktok.com/@strenure" target="_blank"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" /></a>
-  <a href="https://www.youtube.com/@Strenure" target="_blank"><img src="https://skillicons.dev/icons?i=youtube" /></a>
-  <a href="https://x.com/theayushisingh" target="_blank"><img src="https://skillicons.dev/icons?i=twitter" /></a>
-  <a href="https://ayushisingh.com/" target="_blank"><img src="https://img.shields.io/badge/Website-CyberBlue?style=for-the-badge&logo=Google-Chrome&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/the-ayushi-singh/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/ayushisingh_official/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://www.facebook.com/authorayushisingh/" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+  </a>
+  <a href="https://www.tiktok.com/@strenure" target="_blank">
+    <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" />
+  </a>
+  <a href="https://www.youtube.com/@Strenure" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+  </a>
+  <a href="https://x.com/theayushisingh" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+  <a href="https://ayushisingh.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Website-0d1117?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
 </p>
+
 
 ---
 
