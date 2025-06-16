@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="120" alt="Robot" />
+  <img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="200" alt="Robot" />
   <br />
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=3000&pause=1000&color=0FFEF9&center=true&vCenter=true&multiline=true&width=1000&lines=Hi+%F0%9F%91%8B%2C+I'm+Ayushi+Singh;Founder+%40+Strenure+|+AI+%26+Automation+Consultant;LLMs+%7C+GPTs+%7C+Copilots+%7C+Educator" alt="Typing SVG" />
 </h1>
