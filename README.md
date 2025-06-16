@@ -50,6 +50,18 @@
 
 ---
 
+### 📚 My Courses on Notion
+
+Here are some of my hands-on AI automation courses hosted on Notion:
+
+| 💡 Course Name | 🔗 Link |
+|---------------|--------|
+| **AI Automation for Finance** | [Open in Notion](https://www.notion.so/your-course-link) |
+| **Build Your First GPT Copilot** | [Open in Notion](https://www.notion.so/your-course-link) |
+| **GitHub for Beginners** | [Open in Notion](https://www.notion.so/your-course-link) |
+
+---
+
 ### 📈 GitHub Stats
 
 <p align="center">
