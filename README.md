@@ -15,8 +15,6 @@
 
 ### 🌐 Connect With Me
 
-### 🌐 Connect With Me
-
 <p align="center">
   <a href="https://www.linkedin.com/in/the-ayushi-singh/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -46,8 +44,8 @@
 
 ### 🔥 Trending AI Videos
 
-[![AI Copilot Demo](https://img.youtube.com/vi/MJ69tFHrsdY/0.jpg)](https://youtu.be/MJ69tFHrsdY?si=YKr9W29NPtBj0Uah)
-[![LLM Course Intro](https://img.youtube.com/vi/-tRPvoNDiLw/0.jpg)](https://youtu.be/-tRPvoNDiLw?si=vDaC_yVXKolkOoWq)
+[![AI Copilot Demo]](https://youtu.be/MJ69tFHrsdY?si=YKr9W29NPtBj0Uah)
+[![LLM Course Intro](https://youtu.be/-tRPvoNDiLw?si=vDaC_yVXKolkOoWq)
 
 ---
 
