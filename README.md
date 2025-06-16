@@ -34,9 +34,8 @@
 
 ### 📺 Featured AI Automation Videos
 
-<!-- Replace with your actual video links or thumbnails -->
-[![AI Copilot Demo](https://img.youtube.com/vi/VIDEO_ID1/0.jpg)](https://youtu.be/MJ69tFHrsdY?si=YKr9W29NPtBj0Uah)
-[![LLM Course Intro](https://img.youtube.com/vi/VIDEO_ID2/0.jpg)](https://youtu.be/-tRPvoNDiLw?si=vDaC_yVXKolkOoWq)
+[![AI Copilot Demo](https://img.youtube.com/vi/MJ69tFHrsdY/0.jpg)](https://youtu.be/MJ69tFHrsdY?si=YKr9W29NPtBj0Uah)
+[![LLM Course Intro](https://img.youtube.com/vi/-tRPvoNDiLw/0.jpg)](https://youtu.be/-tRPvoNDiLw?si=vDaC_yVXKolkOoWq)
 
 ---
 
@@ -56,7 +55,7 @@ Here are some of my hands-on AI automation courses hosted on Notion:
 
 | 💡 Course Name | 🔗 Link |
 |---------------|--------|
-| **GITHUB IN 15 DAYS CHALLENGE** | [Open in Notion]((https://ambitious-yam-b71.notion.site/201df188b81e80a68b58fe2244e3ebc9?v=201df188b81e8070b580000c2329604b&source=copy_link)) |
+| **GITHUB IN 15 DAYS CHALLENGE** | [Open in Notion](https://ambitious-yam-b71.notion.site/201df188b81e80a68b58fe2244e3ebc9?v=201df188b81e8070b580000c2329604b&source=copy_link) |
 | **SHELL COMMANDS - ULTIMATE GUIDE** | [Open in Notion](https://ambitious-yam-b71.notion.site/Module-1-Shell-Commands-The-Ultimate-Guide-197df188b81e80148453f1b1ed676a4a?source=copy_link) |
 
 ---
@@ -85,4 +84,3 @@ I'm open to:
 ---
 
 🔄 *This README auto-updates with GitHub stats and activity*
-
