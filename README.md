@@ -4,8 +4,6 @@
 **Email:** ayushi2530@gmail.com  
 **LinkedIn:** [linkedin.com/in/ayushisingh](https://linkedin.com/in/ayushisingh)
 
-![Typing animation](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=4F46E5&center=true&vCenter=true&width=350&lines=Project+Manager+%26+DevOps+Engineer;Cloud+%7C+CI%2FCD+%7C+AWS+%7C+Agile)
-
 
 ---
 
