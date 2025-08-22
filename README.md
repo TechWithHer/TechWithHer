@@ -87,3 +87,19 @@ Feel free to reach out via email or LinkedIn for collaboration or opportunities.
 ---
 
 *Thank you for visiting my profile.*
+
+
+Join me, Ayushi Singh, as I share insights on AI, DevOps, Cloud technologies, and tech leadership. Whether you're starting your journey or scaling your skills, my content will help you grow and stay ahead.
+
+Explore more about me and my work:
+Website: https://www.ayushisingh.com
+LinkedIn: https://www.linkedin.com/in/the-ayushi-singh/
+Instagram: https://www.instagram.com/ayushisingh_official/
+Company Website (Strenure): https://www.strenure.com
+GitHub (Projects & Code): https://github.com/TechWithHer
+Digital Transformation Group: https://chat.whatsapp.com/EWha4wltgYKKKiiNm5D86G
+
+Stay connected and learn with me:
+
+Subscribe to this channel for more content on AI, DevOps, Cloud, and leadership.
+Like, share, and comment to let me know what you’d like to see next.
