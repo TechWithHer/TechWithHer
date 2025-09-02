@@ -9,12 +9,12 @@ Do join our Digital Transformation Community: https://chat.whatsapp.com/EWha4wlt
 
 #
 Explore more about me and my work:
-> Website: https://www.ayushisingh.com
-> LinkedIn: https://www.linkedin.com/in/the-ayushi-singh/
-> Instagram: https://www.instagram.com/ayushisingh_official/
-> Company Website (Strenure): https://www.strenure.com
-> GitHub (Projects & Code): https://github.com/TechWithHer
-> Digital Transformation WA Group: https://chat.whatsapp.com/EWha4wltgYKKKiiNm5D86G
+  > Website: https://www.ayushisingh.com
+  > LinkedIn: https://www.linkedin.com/in/the-ayushi-singh/
+  > Instagram: https://www.instagram.com/ayushisingh_official/
+  > Company Website (Strenure): https://www.strenure.com
+  > GitHub (Projects & Code): https://github.com/TechWithHer
+  > Digital Transformation WA Group: https://chat.whatsapp.com/EWha4wltgYKKKiiNm5D86G
 
 Lets do some magic together!
 Subscribe to this profile for more content on AI, DevOps, Cloud, and leadership.
