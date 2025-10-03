@@ -18,7 +18,7 @@ I share practical insights on **DevOps, AI, and Automation** that I’ve applied
   <a href="https://www.linkedin.com/in/the-ayushi-singh/"><img src="https://img.shields.io/badge/LinkedIn-Ayushi%20Singh-blue?logo=linkedin" /></a>
   <a href="https://www.instagram.com/ayushisingh_official/"><img src="https://img.shields.io/badge/Instagram-@ayushisingh__official-pink?logo=instagram" /></a>
   <a href="https://github.com/TechWithHer"><img src="https://img.shields.io/badge/GitHub-TechWithHer-black?logo=github" /></a>
-  <a href="https://ayushisingh.notion.site"><img src="https://img.shields.io/badge/📒%20Notion-Notes%20&%20Checklists-lightgrey?logo=notion" /></a>
+  <a href="https://www.notion.so/STRENURE-LABS-1e8df188b81e802a8b57d964fed00f7c"><img src="https://img.shields.io/badge/📒%20Notion-Notes%20&%20Checklists-lightgrey?logo=notion" /></a>
   <a href="https://www.strenure.com"><img src="https://img.shields.io/badge/Company-Strenure-brightgreen" /></a>
   <a href="https://chat.whatsapp.com/EWha4wltgYKKKiiNm5D86G"><img src="https://img.shields.io/badge/Community-Digital%20Transformation-green?logo=whatsapp" /></a>
 </p>
