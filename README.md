@@ -66,10 +66,10 @@ I share practical insights on **DevOps, AI, and Automation** that I’ve applied
 <!-- Projects Section -->
 <h2 align="center">📌 Featured Projects</h2>
 
+- 🔧 **NetToolBox** → Python + AWS + DevOps 
 - 🔧 **Website Uptime Monitor** → Python + AWS  
 - 🔐 **Password Manager** → Security-focused tool  
-- 📊 **System Monitor Dashboard** → Real-time alerts via Telegram  
-- 🌐 **Network Troubleshooting Toolkit** → DevOps-ready CLI utility  
+- 📊 **System Monitor Dashboard** → Real-time alerts via Telegram
 
 ✨ More projects coming soon in [this repo](https://github.com/TechWithHer)  
 
@@ -86,5 +86,5 @@ I share practical insights on **DevOps, AI, and Automation** that I’ve applied
 <!-- Footer -->
 <p align="center">
   ✨ <b>Let’s learn, build, and transform together!</b> ✨ <br>
-  💌 Open for collaborations, projects & speaking engagements  
+  💌 Open for collaborations, projects & speaking engagements. Email at info@strenure.com 
 </p>
