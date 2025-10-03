@@ -62,6 +62,16 @@ I share practical insights on **DevOps, AI, and Automation** that I’ve applied
 - 🌍 **Talks & Events** → Helping professionals embrace **Digital Transformation**  
 
 ---
+<h2 align="center">Important Knowledge-Base Links</h2>
+
+- 🔥 On a **100-Days DevOps Journey**, sharing everything I learn  
+- 🎥 **YouTube** → Hands-on projects & tutorials  
+- 📒 **Notion** → Structured DevOps notes & checklists  
+- 💻 **GitHub** → Real-world projects & open-source contributions  
+- 🌍 **Talks & Events** → Helping professionals embrace **Digital Transformation**  
+
+---
+
 
 <!-- Projects Section -->
 <h2 align="center">📌 Featured Projects</h2>
