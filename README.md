@@ -1,100 +1,130 @@
-<!-- Profile Header -->
-<h1 align="center">👋 Namaste, I'm Ayushi Singh</h1>
-<h3 align="center">🚀 DevOps Engineer | 🎤 Tech Keynote Speaker | 🤖 AI Enthusiast</h3>
-
----
-
-<!-- About Section -->
-<p align="center">
-I’m a <b>DevOps Engineer</b> and <b>AI Strategist</b> passionate about bridging technology with real-world impact.  
-I share practical insights on **DevOps, AI, and Automation** that I’ve applied while working with SMEs and speaking at global events.  
-</p>
-
----
-
-<!-- Badges / Quick Links -->
-<p align="center">
-  <a href="https://www.ayushisingh.com"><img src="https://img.shields.io/badge/🌐%20Website-ayushisingh.com-blue" /></a>
-  <a href="https://www.linkedin.com/in/the-ayushi-singh/"><img src="https://img.shields.io/badge/LinkedIn-Ayushi%20Singh-blue?logo=linkedin" /></a>
-  <a href="https://www.instagram.com/ayushisingh_official/"><img src="https://img.shields.io/badge/Instagram-@ayushisingh__official-pink?logo=instagram" /></a>
-  <a href="https://github.com/TechWithHer"><img src="https://img.shields.io/badge/GitHub-TechWithHer-black?logo=github" /></a>
-  <a href="https://www.notion.so/STRENURE-LABS-1e8df188b81e802a8b57d964fed00f7c"><img src="https://img.shields.io/badge/📒%20Notion-Notes%20&%20Checklists-lightgrey?logo=notion" /></a>
-  <a href="https://www.strenure.com"><img src="https://img.shields.io/badge/Company-Strenure-brightgreen" /></a>
-  <a href="https://chat.whatsapp.com/EWha4wltgYKKKiiNm5D86G"><img src="https://img.shields.io/badge/Community-Digital%20Transformation-green?logo=whatsapp" /></a>
-</p>
-
----
-
-<!-- Tech Logos -->
-<h2 align="center">🛠️ Tech Stack & Tools</h2>
-<p align="center">
-  <!-- Core DevOps -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="60" height="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" width="60" height="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" alt="Terraform" width="60" height="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" alt="Ansible" width="60" height="60"/>
+<div align="center">
   
-  <!-- Cloud -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="70" height="70"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" alt="Azure" width="60" height="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" alt="GCP" width="60" height="60"/>
+# 👋 Namaste, I'm Ayushi Singh  
 
-  <!-- Programming & Scripting -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="60" height="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="Bash" width="60" height="60"/>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F77737&center=true&vCenter=true&width=500&lines=DevOps+Engineer;AI+Strategist+%26+Keynote+Speaker;Empowering+Digital+Transformation;Building+With+Code+%26+Compassion)](https://git.io/typing-svg)
 
-  <!-- Collaboration & SCM -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="60" height="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" alt="GitLab" width="60" height="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" alt="Jira" width="60" height="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" alt="Trello" width="60" height="60"/>
-</p>
+</div>
 
 ---
 
-<!-- Journey Section -->
-<h2 align="center">🚀 My Journey</h2>
+## 🚀 About Me
 
-- 🔥 On a **100-Days DevOps Journey**, sharing everything I learn  
-- 🎥 **YouTube** → Hands-on projects & tutorials  
-- 📒 **Notion** → Structured DevOps notes & checklists  
-- 💻 **GitHub** → Real-world projects & open-source contributions  
-- 🌍 **Talks & Events** → Helping professionals embrace **Digital Transformation**  
+I'm a **DevOps Engineer**, **AI Enthusiast**, and **Tech Speaker** passionate about bridging innovation with impact.  
+Through my work at **Strenure**, I help businesses and individuals embrace **Digital Transformation** using **DevOps**, **Automation**, and **AI**.  
 
----
-<h2 align="center">Important Knowledge-Base Links</h2>
+💡 I believe in **learning in public**, **building meaningful tools**, and **inspiring others** to explore technology confidently.  
 
-- 🔥 On a **100-Days DevOps Journey**, sharing everything I learn  
-- 🎥 **YouTube** → Hands-on projects & tutorials  
-- 📒 **Notion** → Structured DevOps notes & checklists  
-- 💻 **GitHub** → Real-world projects & open-source contributions  
-- 🌍 **Talks & Events** → Helping professionals embrace **Digital Transformation**  
+- 🔭 Currently working on **AI-integrated DevOps solutions** and **automation tools**
+- 🌱 Exploring **Cloud Architecture**, **Prompt Engineering**, and **Platform Reliability**
+- 👯 Open to collaborations in **AI, DevOps, and Cloud-native projects**
+- 🎤 Frequently speak at **global tech and leadership events**
+- ⚡ Fun fact: I start my mornings with meditation & code — balance is key 🕉️💻
 
 ---
 
+## 🛠️ Tech Stack & Tools
 
-<!-- Projects Section -->
-<h2 align="center">📌 Featured Projects</h2>
-
-- 🔧 **NetToolBox** → Python + AWS + DevOps 
-- 🔧 **Website Uptime Monitor** → Python + AWS  
-- 🔐 **Password Manager** → Security-focused tool  
-- 📊 **System Monitor Dashboard** → Real-time alerts via Telegram
-
-✨ More projects coming soon in [this repo](https://github.com/TechWithHer)  
-
----
-
-<!-- Community Section -->
-<h2 align="center">🌍 Join the Movement</h2>
-
-📲 Be part of our **Digital Transformation Community** →  
-👉 [Join Here](https://chat.whatsapp.com/EWha4wltgYKKKiiNm5D86G)  
-
----
-
-<!-- Footer -->
 <p align="center">
-  ✨ <b>Let’s learn, build, and transform together!</b> ✨ <br>
-  💌 Open for collaborations, projects & speaking engagements. Email at info@strenure.com 
+  <!-- DevOps Core -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="55" height="55" alt="Docker"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="55" height="55" alt="Kubernetes"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="55" height="55" alt="Terraform"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" width="55" height="55" alt="Ansible"/>
+
+  <!-- Cloud -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="70" height="70" alt="AWS"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="55" height="55" alt="Azure"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="55" height="55" alt="GCP"/>
+
+  <!-- Programming -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="55" height="55" alt="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="55" height="55" alt="Bash"/>
+
+  <!-- Collaboration -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="55" height="55" alt="GitHub"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" width="55" height="55" alt="GitLab"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" width="55" height="55" alt="Jira"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" width="55" height="55" alt="Trello"/>
 </p>
+
+---
+
+## 🌍 Digital Journey
+
+- 💻 On a **100-Days DevOps Journey** — sharing insights daily  
+- 🧠 Building tools like **NetToolBox**, **Website Uptime Monitor**, and **System Monitor Dashboard**  
+- 🎥 **YouTube** → Real-world projects & automation tutorials  
+- 📒 **Notion** → My organized DevOps & AI knowledge base  
+- 🌍 **Speaking Events** → Educating teams on digital transformation  
+- 🤝 Founder of **Strenure** — empowering businesses with AI & automation  
+
+---
+
+## 📌 Featured Projects
+
+| Project | Description | Stack |
+|----------|--------------|-------|
+| 🧰 **NetToolBox** | Network troubleshooting & diagnostic toolkit | Python, AWS, Linux |
+| 🌐 **Website Uptime Monitor** | Checks site health & sends alerts via Telegram/Email | Python, AWS, DevOps |
+| 🔐 **Password Manager** | Local credential storage & encryption | Python, Security |
+| 📊 **System Monitor Dashboard** | CPU & memory tracker with Telegram notifications | Python, OOP, Monitoring |
+
+✨ More projects coming soon in [this repository →](https://github.com/TechWithHer)
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TechWithHer&show_icons=true&theme=radical&hide_border=true&count_private=true" height="160" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TechWithHer&layout=compact&theme=radical&hide_border=true" height="160" alt="Top Languages"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TechWithHer&theme=radical&hide_border=true" width="420" alt="GitHub Streak"/>
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=TechWithHer&theme=radical&no-frame=true&margin-w=10" alt="GitHub Trophies"/>
+</div>
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+[![Website](https://img.shields.io/badge/🌐%20Website-ayushisingh.com-blue?style=for-the-badge&logo=google-chrome)](https://www.ayushisingh.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ayushi%20Singh-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/the-ayushi-singh/)
+[![Instagram](https://img.shields.io/badge/Instagram-@ayushisingh__official-E4405F?style=for-the-badge&logo=instagram)](https://www.instagram.com/ayushisingh_official/)
+[![GitHub](https://img.shields.io/badge/GitHub-TechWithHer-black?style=for-the-badge&logo=github)](https://github.com/TechWithHer)
+[![Company](https://img.shields.io/badge/Company-Strenure-brightgreen?style=for-the-badge&logo=google)](https://www.strenure.com)
+[![Community](https://img.shields.io/badge/WhatsApp-Join%20Community-green?style=for-the-badge&logo=whatsapp)](https://chat.whatsapp.com/EWha4wltgYKKKiiNm5D86G)
+[![Notion](https://img.shields.io/badge/📒%20Notion-Knowledge%20Base-lightgrey?style=for-the-badge&logo=notion)](https://www.notion.so/STRENURE-LABS-1e8df188b81e802a8b57d964fed00f7c)
+
+</div>
+
+---
+
+## 📈 Activity Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TechWithHer&theme=radical&hide_border=true" alt="Activity Graph">
+</div>
+
+---
+
+<div align="center">
+
+### 💡 “Let’s Learn, Build, and Transform Together”  
+💌 Contact: **info@strenure.com**
+
+![Profile Views](https://komarev.com/ghpvc/?username=TechWithHer&color=brightgreen&style=flat-square)
+[![GitHub followers](https://img.shields.io/github/followers/TechWithHer?label=Follow&style=social)](https://github.com/TechWithHer)
+
+</div>
