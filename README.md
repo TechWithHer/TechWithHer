@@ -121,7 +121,6 @@ I'm a **DevOps Engineer**, **AI Enthusiast**, and **Tech Speaker** passionate ab
 <div align="center">
 
 ### 💡 “Let’s Learn, Build, and Transform Together”  
-💌 Contact: **info@strenure.com**
 
 ![Profile Views](https://komarev.com/ghpvc/?username=TechWithHer&color=brightgreen&style=flat-square)
 [![GitHub followers](https://img.shields.io/github/followers/TechWithHer?label=Follow&style=social)](https://github.com/TechWithHer)
