@@ -10,8 +10,7 @@
 
 ## 🚀 About Me
 
-I'm a **DevOps Engineer**, **AI Enthusiast**, and **Tech Speaker** passionate about bridging innovation with impact.  
-Through my work at **Strenure**, I help businesses and individuals embrace **Digital Transformation** using **DevOps**, **Automation**, and **AI**.  
+I'm a **DevOps Engineer**, **AI Enthusiast**, and **Tech Speaker** passionate about bridging innovation with impact. I help businesses and individuals embrace **Digital Transformation** using **DevOps**, **Automation**, and **AI**.  
 
 💡 I believe in **learning in public**, **building meaningful tools**, and **inspiring others** to explore technology confidently.  
 
