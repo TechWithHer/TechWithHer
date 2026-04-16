@@ -96,17 +96,6 @@ Tracks uptime + sends alerts
 
 Real-time metrics with Grafana
 → Improves system visibility & performance
-
----
-
-# Proof of Work
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=TechWithHer&show_icons=true&theme=radical&hide_border=true" height="160"/>
-
-</div>
-
 ---
 
 # Beyond Engineering
